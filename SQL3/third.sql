@@ -1,1 +1,2 @@
-select 3;
+select 3,
+3+3;
